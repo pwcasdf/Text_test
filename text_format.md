@@ -46,3 +46,4 @@ Bold with Italic text format
 **Bold with _Italic text_ format**
 ```
 <br/><br/>
+https://github.com/pwcasdf/how-to-use-git/blob/master/documents/text_format.md
