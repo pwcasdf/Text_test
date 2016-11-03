@@ -40,4 +40,9 @@ This is strikethrough
 ~~This is strikethrough~~
 ```
 <br/><br/>
-
+**Bold with _Italic text_ format**<br/>
+Bold with Italic text format
+```
+**Bold with _Italic text_ format**
+```
+<br/><br/>
