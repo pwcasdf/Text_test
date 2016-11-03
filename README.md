@@ -1,21 +1,21 @@
 This document is to test the format of text in github.
 
 #The largest heading
-The largest heading<br/>
+The largest heading
 ```
 #The largest heading
-```<br/><br/>
-
+```
+<br/><br/>
 ##The second largest heading
-The second largest heading<br/>
+The second largest heading
 ```
 ##The second largest heading
-```<br/><br/>
+```
 
 #####The smallest heading
-The smallest heading<br/>
+The smallest heading
 ```
 #####The smallest heading
-```<br/><br/>
+```
 
 
